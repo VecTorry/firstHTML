@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title></head>
+<body>
+<div style = "background-color:yellow;width:1330px;"><h1 style = "color:blue;font-size:50px;">My Personal Webpage</h1></div>
+<div style = "background-color:cyan;position:absolute;width:500px;height:845px;"><h1 style = "color:red;font-size:50px;">Table of Contents</h1><h2><ul><dd>Family =></dd>
+<br><br><br><hr><br><br><br><br>
+<dd>Friends =></dd><br><br><br><br><br><br><br>
+<dd>Favourites =></dd>
+</ul></h2></div>
+<div style = "background-color:red;position:absolute;width:1390px;left:520px;height:240px;">
+<h1 style = "color:purple;font-size:50px;font-family:Arial;">My Family</h1><dd><h2><!--My Family DESCRIPTION--></h2>
+</dd></div><div style = "background-color:green;position:absolute;width:1390px;left:520px;height:270px;top:370px;">
+<h1 style = "color:pink;font-size:50px;font-family:Arial;">My Friends</h1><dd><h2><!--My Friends DESCRIPTION--></h2></dd></div>
+<div style = "background-color:orange;position:absolute;width:1390px;left:520px;height:320px;top:650px;">	
+<h1 style = "color:cadetblue;font-size:50px;">My Favourites</h1><dd><h2><!--My Favourties DESCRIPTION--></h2></dd>
+</body>
+</html>

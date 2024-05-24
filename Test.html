@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<p id="demo"></p>
+		Name: <input name="name" type="text" size="20">
+		<button onclick="output()">OK</button>
+		
+		<script>
+		function output()
+		// 'var' here. */
+			{
+				if (name == "" || name == null) // 'var' "name" not existant. */
+				{
+					document.getElementById("demo").innerHTML ="<h1>Succesfully Logged In!</h1>";
+				} else
+				{
+					document.getElementById("demo").innerHTML ="<h1>Error lol wrong don't know own name haha</h1>";
+				}
+			}
+		</script>
+	</body>
+</html>
